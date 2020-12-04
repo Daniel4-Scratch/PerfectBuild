@@ -1,2 +1,2 @@
 # PerfectBuild
-An app that increases app spee
+An app that increases app speed
